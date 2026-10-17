@@ -476,7 +476,7 @@ Update this table as milestones are completed.
 
 ## ◈ Team
 
-**Team Name: Gryffindor**
+**Team Name: AXION 8**
 
 Developed as an educational hardware-design and hackathon project focused on digital systems, computer architecture, Verilog HDL, and FPGA implementation.
 
